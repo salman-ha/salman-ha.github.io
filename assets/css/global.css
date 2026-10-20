@@ -98,6 +98,29 @@ div.lazy {
     font-size: 100%;
 }
 
+.venue-badge {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #198754;
+}
+
+.venue-badge-preprint {
+    color: #495057;
+}
+
+.pub-authors {
+    font-size: 1rem;
+}
+
+.pub-link {
+    margin-left: 0.4em;
+    font-weight: 600;
+}
+
+.experience-text {
+    font-size: 0.95rem;
+}
+
 .email-text {
     font-family: Source Code Pro, monospace;
 }
